@@ -122,7 +122,7 @@ N8N_ENCRYPTION_KEY=<隨機生成的SHA256 key>
 #### 如何生成 N8N_ENCRYPTION_KEY？
 
 1. 前往線上 SHA256 產生器，例如：
-   - https://passwordsgenerator.net/sha256-hash-generator/
+   - https://coding.tools/tw/sha256
    - 或其他線上 SHA256 工具
 2. 輸入任意隨機文字
 3. 複製生成的 SHA256 雜湊值
